@@ -14,6 +14,7 @@ This idea came to me as I was making Bad Apple in
 Ruby. This should essentially work with any mp4 file
 but the worse the resolution, the better the framerate.
 
-<video src="./demo.mp4" width="600" controls>
-  Your viewer does not support video playback. Watch it at: ./demo.mp4
-</video>
+https://github.com/user-attachments/assets/dcaa28f5-54f6-4bc7-80af-b6dbdb4257bd
+
+
+
